@@ -1,0 +1,10 @@
+*font:	-xos4-terminus-bold-*-normal-*-20-*-*-*-*-*-iso8859-*
+*faceName: terminus:medium:pixelsize=20
+*font2:	-xos4-terminus-bold-*-normal-*-12-*-*-*-*-*-iso8859-*
+*font3:	-xos4-terminus-bold-*-normal-*-16-*-*-*-*-*-iso8859-*
+*font4:	-xos4-terminus-bold-*-normal-*-18-*-*-*-*-*-iso8859-*
+*font5:	-xos4-terminus-bold-*-normal-*-22-*-*-*-*-*-iso8859-*
+*font6:	-xos4-terminus-bold-*-normal-*-24-*-*-*-*-*-iso8859-*
+*background: #111111
+*foreground: #babdb6
+*xpdf*reverseVideo: on
